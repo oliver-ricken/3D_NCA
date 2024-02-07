@@ -3,10 +3,10 @@ Growing 3 Dimensional Neural Cellular Automata. Pitzer College Spring 2024 Machi
 
 Researchers:
 
-Perri McElvian, CMC '25
+Perri McElvian, Claremont McKenna College '25
 
-Oliver Ricken, PZ '24
+Oliver Ricken, Pitzer College '24
 
-Zack Baum, PZ '24
+Zack Baum, Pitzer College '24
 
-Macks Plush, PZ '25
+Macks Plush, Pitzer College '25
