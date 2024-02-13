@@ -9,4 +9,4 @@ Oliver Ricken, Pitzer College '24
 
 Zack Baum, Pitzer College '24
 
-Max Plush, Pitzer College '25
+Macks Plush, Pitzer College '25
