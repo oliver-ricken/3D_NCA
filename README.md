@@ -17,6 +17,6 @@ Zach Baum, Pitzer College '24
 
 ## References
 
-![Static Badge](https://img.shields.io/badge/project-references-blue)
+[![Static Badge](https://img.shields.io/badge/project-references-blue)](https://github.com/oliver-ricken/3D_NCA/blob/main/references/references.md)
 
 Refer to the linked badge above for a complete list of references used in developing this project.
