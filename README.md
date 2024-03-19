@@ -5,14 +5,18 @@ Growing 3 Dimensional Neural Cellular Automata. Pitzer College Spring 2024 Machi
 
 ## Contributors
 
-Perri McElvain, Claremont McKenna College '25
+[David Bachman, Ph.D.](https://github.com/davbachman) Pitzer College
 
-Oliver Ricken, Pitzer College '24
+[Oliver Ricken](https://github.com/oliver-ricken), Pitzer College '24
 
-Zack Baum, Pitzer College '24
+[Perri McElvain](https://github.com/perrimcelvain), Claremont McKenna College '25
 
-Max Abe Plush, Pitzer College '25
+[Max Abe Plush](https://github.com/maxplush), Pitzer College '25
+
+Zach Baum, Pitzer College '24
 
 ## References
 
 ![Static Badge](https://img.shields.io/badge/project-references-blue)
+
+Refer to the linked badge above for a complete list of references used in developing this project.
